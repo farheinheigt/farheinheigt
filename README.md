@@ -1,9 +1,5 @@
 <img src="https://github.com/farheinheigt/farheinheigt/blob/main/WAB_LOGO_MAKER_1655499050090.png" alt=";)">
 
-
-https://github.com/farheinheigt/farheinheigt/blob/main/WAB_LOGO_MAKER_1655499050090.png
-
-
 - 👋 Hi, I’m @farheinheigt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
