@@ -1,7 +1,7 @@
 <img src="https://github.com/farheinheigt/farheinheigt/blob/main/WAB_LOGO_MAKER_1655499050090.png" alt=";)">
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/FARHEINHEIGT.png" alt="TryHackMe">
-<script src="https://tryhackme.com/badge/979379"></script>
+<img  src="https://tryhackme.com/badge/979379"">
+                                               
 
 
 - 👋 Hi, I’m @farheinheigt
