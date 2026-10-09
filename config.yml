@@ -1,0 +1,73 @@
+# Public profile data used by the SVG generator.
+username: farheinheigt
+
+profile:
+  name: "Farid Lannabi"
+  tagline: "Ethical Hacker · Security Research & Tooling"
+  company: ""
+  location: "Paris"
+  bio: "Building security tools, CTF utilities, and command-line projects for macOS."
+  philosophy: ""
+
+social:
+  linkedin: "faridlannabi"
+
+galaxy_arms:
+  - name: "Security & CTFs"
+    items:
+      - "Python"
+    repos:
+      - "CTFoutu"
+      - "CTFacile"
+      - "CTFormidable"
+  - name: "macOS & Shell"
+    items:
+      - "Shell"
+    repos:
+      - "Rappel"
+      - "fixapp"
+      - "uninstall"
+      - "mesprocessus"
+      - "messervices"
+  - name: "Rust CLI tools"
+    items:
+      - "Rust"
+    repos:
+      - "mesip"
+      - "mdp"
+      - "mesports"
+      - "speed"
+      - "monid"
+      - "pythoninfo"
+      - "buninfo"
+      - "cli-rust-foundation"
+
+projects:
+  - repo: "farheinheigt/CTFoutu"
+    description: "CLI for searching NVD CVEs and matching ExploitDB entries."
+    arm: 0
+  - repo: "farheinheigt/Rappel"
+    description: "macOS reminder manager in zsh, backed by the Reminders app."
+    arm: 1
+  - repo: "farheinheigt/mesip"
+    description: "Rust CLI for local, public, and VPN IP information."
+    arm: 2
+
+theme:
+  dark: "deep-sky"
+  light: "cyanotype"
+
+motion: true
+
+stats:
+  metrics:
+    - "stars"
+    - "prs"
+    - "repos"
+
+languages:
+  exclude:
+    - "HTML"
+    - "CSS"
+    - "Makefile"
+  max_display: 8
